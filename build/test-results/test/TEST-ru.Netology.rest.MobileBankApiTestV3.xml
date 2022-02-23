@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.Netology.rest.MobileBankApiTestV3" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-02-23T14:56:13" hostname="USER-ПК" time="2.115">
+<testsuite name="ru.Netology.rest.MobileBankApiTestV3" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-02-23T14:57:59" hostname="USER-ПК" time="1.889">
   <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="ru.Netology.rest.MobileBankApiTestV3" time="2.115">
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.Netology.rest.MobileBankApiTestV3" time="1.889">
     <failure message="java.lang.AssertionError: 1 expectation failed.&#10;JSON path [0].currency doesn't match.&#10;Expected: RUR&#10;  Actual: RUB&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
 JSON path [0].currency doesn't match.
 Expected: RUR
